@@ -1,0 +1,47 @@
+﻿NTP_zone_nr;NTP_zone_name;Google_maps_position;Lat;Long;Stef_zone_nr;Stef_zone_name;google_maps;Lat2;Long2;AIM_zone_nr
+1;Akershus og Oslo;Oslo;59.9133301;10.7389701;1;Viken/Oslo;Oslo;59.9133301;10.7389701;1
+2;Ytre Østfold;Halden;59.0680555;11.537191;1;Viken/Oslo;Oslo;59.9133301;10.7389701;
+3;Indre Østfold;Askim;57.6341437;11.9379446;1;Viken/Oslo;Oslo;59.9133301;10.7389701;
+4;Hedemarken;Hedemarken;59.5823139;11.4641055;2;Innlandet/Lillehammer;Lillehammer;61.1333408;10.42658554;
+5;Glåmdal;Glåmdal;59.920826;10.7511665;2;Innlandet/Lillehammer;Lillehammer;61.1333408;10.42658554;
+6;Østerdalen;Østerdalen;60.928758;11.480425;2;Innlandet/Lillehammer;Lillehammer;61.1333408;10.42658554;
+7;Lillehammer/Gjøvik;Lillehammer;61.1333408;10.42658554;2;Innlandet/Lillehammer;Lillehammer;61.1333408;10.42658554;3
+8;Gudbrandsdalen;Gudbrandsdalen;61.5829007;9.8344149;2;Innlandet/Lillehammer;Lillehammer;61.1333408;10.42658554;
+9;Valdres;Valdres;59.906181;10.6828068;2;Innlandet/Lillehammer;Lillehammer;61.1333408;10.42658554;
+10;Hadeland;Hadeland;60.00317455;10.63260221;2;Innlandet/Lillehammer;Lillehammer;61.1333408;10.42658554;
+11;Drammen;Drammen;59.7436749;10.2043749;1;Viken/Oslo;Oslo;59.9133301;10.7389701;
+12;Ringerike;Ringerike;60.32740625;10.02176353;1;Viken/Oslo;Oslo;59.9133301;10.7389701;
+13;Hallingdal;Hallingdal;64.1578243;20.9353502;1;Viken/Oslo;Oslo;59.9133301;10.7389701;
+14;Vestfold;Vestfold;57.2983388;9.6564832;3;Vestfold/Telemark;Larvik;59.053173;10.027182;
+15;Grenland;Skien;59.2662883;9.531135448;3;Vestfold/Telemark;Larvik;59.053173;10.027182;
+16;Øvre Telemark;Øvre Telemark;60.013562;8.6303755;3;Vestfold/Telemark;Larvik;59.053173;10.027182;
+17;Aust-Agder;Aust-Agder;59.56784015;7.371130884;4;Agder/Kristiansand;Kristiansand;58.14615;7.9957333;
+18;Vest-Agder;Vest-Agder;58.5356199;8.0696035;4;Agder/Kristiansand;Kristiansand;58.14615;7.9957333;2
+19;Jæren;Jæren;60.3929443;10.5557772;5;Rogaland/Stavanger;Stavanger;59.1020129;5.712611357;4
+20;Nord-Rogaland;Nord-Rogaland;59.2257973;5.8215954;5;Rogaland/Stavanger;Stavanger;59.1020129;5.712611357;
+21;Bergen;Bergen;60.3943055;5.3259192;6;Vestland/Bergen;Bergen;60.3943055;5.3259192;5
+22;Voss;Voss;60.6291046;6.4101148;6;Vestland/Bergen;Bergen;60.3943055;5.3259192;
+23;Hardanger;Hardanger;59.9053968;10.6792306;6;Vestland/Bergen;Bergen;60.3943055;5.3259192;
+24;Sunnhordaland;Sunnhordland;59.833821;5.7123861;6;Vestland/Bergen;Bergen;60.3943055;5.3259192;
+25;Indre Sogn;Indre Sogn;60.3928072;5.3228286;6;Vestland/Bergen;Bergen;60.3943055;5.3259192;
+26;Ytre Sogn/Fjordane;Ytre Sogn;61.1306323;5.3219591;6;Vestland/Bergen;Bergen;60.3943055;5.3259192;
+27;Sunnmøre;Sunnmøre;62.34163785;5.890219084;7;MøreRomsdal/Ålesund;Ålesund;62.4728781;6.1492684;6
+28;Romsdal;Romsdal;55.7648228;9.527273929;7;MøreRomsdal/Ålesund;Ålesund;62.4728781;6.1492684;
+29;Nordmøre;Kristiansund;63.1194;7.7136;7;MøreRomsdal/Ålesund;Ålesund;62.4728781;6.1492684;
+30;Trondheim;Trondheim;63.4305658;10.3951929;8;Trøndelag/Trondheim;Trondheim;63.4305658;10.3951929;7
+31;Fosen;Fosen;59.3007908;5.354555287;8;Trøndelag/Trondheim;Trondheim;63.4305658;10.3951929;
+32;Nord-Trøndelag;Nord-Trøndelag;64.35059855;10.43147777;8;Trøndelag/Trondheim;Trondheim;63.4305658;10.3951929;
+33;Helgeland;Helgeland;60.8458639;6.4711694;9;Nordland/Bodø;Bodø;67.2839476;14.3825834;
+34;Salten;Bodø;67.280357;14.404916;9;Nordland/Bodø;Bodø;67.2839476;14.3825834;8
+35;Ofoten/Lofoten/Vesterålen;Lofoten;68.333056;14.666389;9;Nordland/Bodø;Bodø;67.2839476;14.3825834;
+36;Sør-Troms;Harstad;68.79833;16.54165;10;TromsFinnmark/Tromsø;Tromsø;69.649208;18.9543434;
+37;Tromsø og nord Troms;Tromsø;69.649208;18.9543434;10;TromsFinnmark/Tromsø;Tromsø;69.649208;18.9543434;9
+38;Vest-Finnmark;Vest-Finnmark;70.04643235;24.96940299;10;TromsFinnmark/Tromsø;Tromsø;69.649208;18.9543434;
+39;Øst-Finnmark;Øst-Finnmark;70.0515297;24.9964413;10;TromsFinnmark/Tromsø;Tromsø;69.649208;18.9543434;
+40;Kontinentalsokkelen;Eldfisk;56.3763913;3.2640817;11;Kontinentalsokkelen;Eldfisk;56.3763913;3.2640817;
+93;Nord-Sverige;Nord-Sverige;65.709302;20.5509474;12;NordSverige;Umeå ;63.8256568;20.2630745;
+94;Ørje/Magnor (Stockholm);Stockholm;59.3251172;18.0710935;13;SørSverige;Stockholm;59.3251172;18.0710935;
+95;Gøteborg;Gøteborg;57.7072326;11.9670171;13;SørSverige;Stockholm;59.3251172;18.0710935;
+96;Syd-Sverige ellers;Syd-Sverige;57.4282886;14.0908483;13;SørSverige;Stockholm;59.3251172;18.0710935;
+97;Europa ellers (inkl DK/FI og rest SE);Hamburg;53.551086;9.993682;14;Europa;Hamburg;53.551086;9.993682;
+98;Verden ellers;Amsterdam;52.377956;4.89707;15;Verden;Amsterdam;52.377956;4.89707;

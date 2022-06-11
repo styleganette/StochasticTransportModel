@@ -1,0 +1,464 @@
+﻿Scenario,Mode,Fuel,2020,2025,2030,2040,2050
+HHH,Road,Diesel,100,100,100,100,100
+HHH,Road,Battery electric,0.2,2,15,45,80
+HHH,Road,Hydrogen,0,0,10,25,50
+HHH,Road,Biodiesel,5,6,10,20,30
+HHH,Road,Biogas,0,1,5,10,20
+HHH,Sea,HFO,100,100,100,100,100
+HHH,Sea,MGO,100,100,100,100,100
+HHH,Sea,LNG,10,20,30,30,50
+HHH,Sea,Hydrogen,0,0,5,12,30
+HHH,Sea,Ammonia,0,0,7,30,50
+HHH,Sea,Biodiesel (HVO),0,0,5,10,20
+HHH,Sea,Biogas,0,0,5,10,20
+HHH,Rail,Diesel,100,100,100,100,100
+HHH,Rail,Electric train (CL),100,100,100,100,100
+HHH,Rail,Battery train,0,0,10,30,50
+HHH,Rail,Hydrogen,0,0,2,6,10
+HHH,Rail,Biodiesel,0,0,5,10,20
+HHM,Road,Diesel,100,100,100,100,100
+HHM,Road,Battery electric,0.2,2,15,45,80
+HHM,Road,Hydrogen,0,0,10,25,50
+HHM,Road,Biodiesel,5,6,10,15,20
+HHM,Road,Biogas,0,1,4,7,10
+HHM,Sea,HFO,100,100,100,100,100
+HHM,Sea,MGO,100,100,100,100,100
+HHM,Sea,LNG,10,20,30,30,50
+HHM,Sea,Hydrogen,0,0,5,12,30
+HHM,Sea,Ammonia,0,0,7,30,50
+HHM,Sea,Biodiesel (HVO),0,0,2,6,10
+HHM,Sea,Biogas,0,0,2,6,10
+HHM,Rail,Diesel,100,100,100,100,100
+HHM,Rail,Electric train (CL),100,100,100,100,100
+HHM,Rail,Battery train,0,0,10,30,50
+HHM,Rail,Hydrogen,0,0,2,6,10
+HHM,Rail,Biodiesel,0,0,2,6,10
+HHL,Road,Diesel,100,100,100,100,100
+HHL,Road,Battery electric,0.2,2,15,45,80
+HHL,Road,Hydrogen,0,0,10,25,50
+HHL,Road,Biodiesel,5,6,7,8.5,10
+HHL,Road,Biogas,0,1,2,3.5,5
+HHL,Sea,HFO,100,100,100,100,100
+HHL,Sea,MGO,100,100,100,100,100
+HHL,Sea,LNG,10,20,30,30,50
+HHL,Sea,Hydrogen,0,0,5,12,30
+HHL,Sea,Ammonia,0,0,7,30,50
+HHL,Sea,Biodiesel (HVO),0,0,2,3.5,5
+HHL,Sea,Biogas,0,0,2,3.5,5
+HHL,Rail,Diesel,100,100,100,100,100
+HHL,Rail,Electric train (CL),100,100,100,100,100
+HHL,Rail,Battery train,0,0,10,30,50
+HHL,Rail,Hydrogen,0,0,2,6,10
+HHL,Rail,Biodiesel,0,0,0,0,0
+HMH,Road,Diesel,100,100,100,100,100
+HMH,Road,Battery electric,0.2,2,15,45,80
+HMH,Road,Hydrogen,0,0,5,15,25
+HMH,Road,Biodiesel,5,6,10,20,30
+HMH,Road,Biogas,0,1,5,10,20
+HMH,Sea,HFO,100,100,100,100,100
+HMH,Sea,MGO,100,100,100,100,100
+HMH,Sea,LNG,10,20,30,30,50
+HMH,Sea,Hydrogen,0,0,2,6,10
+HMH,Sea,Ammonia,0,0,3,12,25
+HMH,Sea,Biodiesel (HVO),0,0,5,10,20
+HMH,Sea,Biogas,0,0,5,10,20
+HMH,Rail,Diesel,100,100,100,100,100
+HMH,Rail,Electric train (CL),100,100,100,100,100
+HMH,Rail,Battery train,0,0,10,30,50
+HMH,Rail,Hydrogen,0,0,1,3,5
+HMH,Rail,Biodiesel,0,0,5,10,20
+HMM,Road,Diesel,100,100,100,100,100
+HMM,Road,Battery electric,0.2,2,15,45,80
+HMM,Road,Hydrogen,0,0,5,15,25
+HMM,Road,Biodiesel,5,6,10,15,20
+HMM,Road,Biogas,0,1,4,7,10
+HMM,Sea,HFO,100,100,100,100,100
+HMM,Sea,MGO,100,100,100,100,100
+HMM,Sea,LNG,10,20,30,30,50
+HMM,Sea,Hydrogen,0,0,2,6,10
+HMM,Sea,Ammonia,0,0,3,12,25
+HMM,Sea,Biodiesel (HVO),0,0,2,6,10
+HMM,Sea,Biogas,0,0,2,6,10
+HMM,Rail,Diesel,100,100,100,100,100
+HMM,Rail,Electric train (CL),100,100,100,100,100
+HMM,Rail,Battery train,0,0,10,30,50
+HMM,Rail,Hydrogen,0,0,1,3,5
+HMM,Rail,Biodiesel,0,0,2,6,10
+HML,Road,Diesel,100,100,100,100,100
+HML,Road,Battery electric,0.2,2,15,45,80
+HML,Road,Hydrogen,0,0,5,15,25
+HML,Road,Biodiesel,5,6,7,8.5,10
+HML,Road,Biogas,0,1,2,3.5,5
+HML,Sea,HFO,100,100,100,100,100
+HML,Sea,MGO,100,100,100,100,100
+HML,Sea,LNG,10,20,30,30,50
+HML,Sea,Hydrogen,0,0,2,6,10
+HML,Sea,Ammonia,0,0,3,12,25
+HML,Sea,Biodiesel (HVO),0,0,2,3.5,5
+HML,Sea,Biogas,0,0,2,3.5,5
+HML,Rail,Diesel,100,100,100,100,100
+HML,Rail,Electric train (CL),100,100,100,100,100
+HML,Rail,Battery train,0,0,10,30,50
+HML,Rail,Hydrogen,0,0,1,3,5
+HML,Rail,Biodiesel,0,0,0,0,0
+HLH,Road,Diesel,100,100,100,100,100
+HLH,Road,Battery electric,0.2,2,15,45,80
+HLH,Road,Hydrogen,0,0,0,1,2
+HLH,Road,Biodiesel,5,6,10,20,30
+HLH,Road,Biogas,0,1,5,10,20
+HLH,Sea,HFO,100,100,100,100,100
+HLH,Sea,MGO,100,100,100,100,100
+HLH,Sea,LNG,10,20,30,30,50
+HLH,Sea,Hydrogen,0,0,0,0,0
+HLH,Sea,Ammonia,0,0,3,6,10
+HLH,Sea,Biodiesel (HVO),0,0,5,10,20
+HLH,Sea,Biogas,0,0,5,10,20
+HLH,Rail,Diesel,100,100,100,100,100
+HLH,Rail,Electric train (CL),100,100,100,100,100
+HLH,Rail,Battery train,0,0,10,30,50
+HLH,Rail,Hydrogen,0,0,0,0,0
+HLH,Rail,Biodiesel,0,0,5,10,20
+HLM,Road,Diesel,100,100,100,100,100
+HLM,Road,Battery electric,0.2,2,15,45,80
+HLM,Road,Hydrogen,0,0,0,1,2
+HLM,Road,Biodiesel,5,6,10,15,20
+HLM,Road,Biogas,0,1,4,7,10
+HLM,Sea,HFO,100,100,100,100,100
+HLM,Sea,MGO,100,100,100,100,100
+HLM,Sea,LNG,10,20,30,30,50
+HLM,Sea,Hydrogen,0,0,0,0,0
+HLM,Sea,Ammonia,0,0,3,6,10
+HLM,Sea,Biodiesel (HVO),0,0,2,6,10
+HLM,Sea,Biogas,0,0,2,6,10
+HLM,Rail,Diesel,100,100,100,100,100
+HLM,Rail,Electric train (CL),100,100,100,100,100
+HLM,Rail,Battery train,0,0,10,30,50
+HLM,Rail,Hydrogen,0,0,0,0,0
+HLM,Rail,Biodiesel,0,0,2,6,10
+HLL,Road,Diesel,100,100,100,100,100
+HLL,Road,Battery electric,0.2,2,15,45,80
+HLL,Road,Hydrogen,0,0,0,1,2
+HLL,Road,Biodiesel,5,6,7,8.5,10
+HLL,Road,Biogas,0,1,2,3.5,5
+HLL,Sea,HFO,100,100,100,100,100
+HLL,Sea,MGO,100,100,100,100,100
+HLL,Sea,LNG,10,20,30,30,50
+HLL,Sea,Hydrogen,0,0,0,0,0
+HLL,Sea,Ammonia,0,0,3,6,10
+HLL,Sea,Biodiesel (HVO),0,0,2,3.5,5
+HLL,Sea,Biogas,0,0,2,3.5,5
+HLL,Rail,Diesel,100,100,100,100,100
+HLL,Rail,Electric train (CL),100,100,100,100,100
+HLL,Rail,Battery train,0,0,10,30,50
+HLL,Rail,Hydrogen,0,0,0,0,0
+HLL,Rail,Biodiesel,0,0,0,0,0
+MHH,Road,Diesel,100,100,100,100,100
+MHH,Road,Battery electric,0.2,2,10,25,50
+MHH,Road,Hydrogen,0,0,10,25,50
+MHH,Road,Biodiesel,5,6,10,20,30
+MHH,Road,Biogas,0,1,5,10,20
+MHH,Sea,HFO,100,100,100,100,100
+MHH,Sea,MGO,100,100,100,100,100
+MHH,Sea,LNG,10,20,30,30,50
+MHH,Sea,Hydrogen,0,0,5,12,30
+MHH,Sea,Ammonia,0,0,7,30,50
+MHH,Sea,Biodiesel (HVO),0,0,5,10,20
+MHH,Sea,Biogas,0,0,5,10,20
+MHH,Rail,Diesel,100,100,100,100,100
+MHH,Rail,Electric train (CL),100,100,100,100,100
+MHH,Rail,Battery train,0,0,10,15,20
+MHH,Rail,Hydrogen,0,0,2,6,10
+MHH,Rail,Biodiesel,0,0,5,10,20
+MHM,Road,Diesel,100,100,100,100,100
+MHM,Road,Battery electric,0.2,2,10,25,50
+MHM,Road,Hydrogen,0,0,10,25,50
+MHM,Road,Biodiesel,5,6,10,15,20
+MHM,Road,Biogas,0,1,4,7,10
+MHM,Sea,HFO,100,100,100,100,100
+MHM,Sea,MGO,100,100,100,100,100
+MHM,Sea,LNG,10,20,30,30,50
+MHM,Sea,Hydrogen,0,0,5,12,30
+MHM,Sea,Ammonia,0,0,7,30,50
+MHM,Sea,Biodiesel (HVO),0,0,2,6,10
+MHM,Sea,Biogas,0,0,2,6,10
+MHM,Rail,Diesel,100,100,100,100,100
+MHM,Rail,Electric train (CL),100,100,100,100,100
+MHM,Rail,Battery train,0,0,10,15,20
+MHM,Rail,Hydrogen,0,0,2,6,10
+MHM,Rail,Biodiesel,0,0,2,6,10
+MHL,Road,Diesel,100,100,100,100,100
+MHL,Road,Battery electric,0.2,2,10,25,50
+MHL,Road,Hydrogen,0,0,10,25,50
+MHL,Road,Biodiesel,5,6,7,8.5,10
+MHL,Road,Biogas,0,1,2,3.5,5
+MHL,Sea,HFO,100,100,100,100,100
+MHL,Sea,MGO,100,100,100,100,100
+MHL,Sea,LNG,10,20,30,30,50
+MHL,Sea,Hydrogen,0,0,5,12,30
+MHL,Sea,Ammonia,0,0,7,30,50
+MHL,Sea,Biodiesel (HVO),0,0,2,3.5,5
+MHL,Sea,Biogas,0,0,2,3.5,5
+MHL,Rail,Diesel,100,100,100,100,100
+MHL,Rail,Electric train (CL),100,100,100,100,100
+MHL,Rail,Battery train,0,0,10,15,20
+MHL,Rail,Hydrogen,0,0,2,6,10
+MHL,Rail,Biodiesel,0,0,0,0,0
+MMH,Road,Diesel,100,100,100,100,100
+MMH,Road,Battery electric,0.2,2,10,25,50
+MMH,Road,Hydrogen,0,0,5,15,25
+MMH,Road,Biodiesel,5,6,10,20,30
+MMH,Road,Biogas,0,1,5,10,20
+MMH,Sea,HFO,100,100,100,100,100
+MMH,Sea,MGO,100,100,100,100,100
+MMH,Sea,LNG,10,20,30,30,50
+MMH,Sea,Hydrogen,0,0,2,6,10
+MMH,Sea,Ammonia,0,0,3,12,25
+MMH,Sea,Biodiesel (HVO),0,0,5,10,20
+MMH,Sea,Biogas,0,0,5,10,20
+MMH,Rail,Diesel,100,100,100,100,100
+MMH,Rail,Electric train (CL),100,100,100,100,100
+MMH,Rail,Battery train,0,0,10,15,20
+MMH,Rail,Hydrogen,0,0,1,3,5
+MMH,Rail,Biodiesel,0,0,5,10,20
+MMM,Road,Diesel,100,100,100,100,100
+MMM,Road,Battery electric,0.2,2,10,25,50
+MMM,Road,Hydrogen,0,0,5,15,25
+MMM,Road,Biodiesel,5,6,10,15,20
+MMM,Road,Biogas,0,1,4,7,10
+MMM,Sea,HFO,100,100,100,100,100
+MMM,Sea,MGO,100,100,100,100,100
+MMM,Sea,LNG,10,20,30,30,50
+MMM,Sea,Hydrogen,0,0,2,6,10
+MMM,Sea,Ammonia,0,0,3,12,25
+MMM,Sea,Biodiesel (HVO),0,0,2,6,10
+MMM,Sea,Biogas,0,0,2,6,10
+MMM,Rail,Diesel,100,100,100,100,100
+MMM,Rail,Electric train (CL),100,100,100,100,100
+MMM,Rail,Battery train,0,0,10,15,20
+MMM,Rail,Hydrogen,0,0,1,3,5
+MMM,Rail,Biodiesel,0,0,2,6,10
+MML,Road,Diesel,100,100,100,100,100
+MML,Road,Battery electric,0.2,2,10,25,50
+MML,Road,Hydrogen,0,0,5,15,25
+MML,Road,Biodiesel,5,6,7,8.5,10
+MML,Road,Biogas,0,1,2,3.5,5
+MML,Sea,HFO,100,100,100,100,100
+MML,Sea,MGO,100,100,100,100,100
+MML,Sea,LNG,10,20,30,30,50
+MML,Sea,Hydrogen,0,0,2,6,10
+MML,Sea,Ammonia,0,0,3,12,25
+MML,Sea,Biodiesel (HVO),0,0,2,3.5,5
+MML,Sea,Biogas,0,0,2,3.5,5
+MML,Rail,Diesel,100,100,100,100,100
+MML,Rail,Electric train (CL),100,100,100,100,100
+MML,Rail,Battery train,0,0,10,15,20
+MML,Rail,Hydrogen,0,0,1,3,5
+MML,Rail,Biodiesel,0,0,0,0,0
+MLH,Road,Diesel,100,100,100,100,100
+MLH,Road,Battery electric,0.2,2,10,25,50
+MLH,Road,Hydrogen,0,0,0,1,2
+MLH,Road,Biodiesel,5,6,10,20,30
+MLH,Road,Biogas,0,1,5,10,20
+MLH,Sea,HFO,100,100,100,100,100
+MLH,Sea,MGO,100,100,100,100,100
+MLH,Sea,LNG,10,20,30,30,50
+MLH,Sea,Hydrogen,0,0,0,0,0
+MLH,Sea,Ammonia,0,0,3,6,10
+MLH,Sea,Biodiesel (HVO),0,0,5,10,20
+MLH,Sea,Biogas,0,0,5,10,20
+MLH,Rail,Diesel,100,100,100,100,100
+MLH,Rail,Electric train (CL),100,100,100,100,100
+MLH,Rail,Battery train,0,0,10,15,20
+MLH,Rail,Hydrogen,0,0,0,0,0
+MLH,Rail,Biodiesel,0,0,5,10,20
+MLM,Road,Diesel,100,100,100,100,100
+MLM,Road,Battery electric,0.2,2,10,25,50
+MLM,Road,Hydrogen,0,0,0,1,2
+MLM,Road,Biodiesel,5,6,10,15,20
+MLM,Road,Biogas,0,1,4,7,10
+MLM,Sea,HFO,100,100,100,100,100
+MLM,Sea,MGO,100,100,100,100,100
+MLM,Sea,LNG,10,20,30,30,50
+MLM,Sea,Hydrogen,0,0,0,0,0
+MLM,Sea,Ammonia,0,0,3,6,10
+MLM,Sea,Biodiesel (HVO),0,0,2,6,10
+MLM,Sea,Biogas,0,0,2,6,10
+MLM,Rail,Diesel,100,100,100,100,100
+MLM,Rail,Electric train (CL),100,100,100,100,100
+MLM,Rail,Battery train,0,0,10,15,20
+MLM,Rail,Hydrogen,0,0,0,0,0
+MLM,Rail,Biodiesel,0,0,2,6,10
+MLL,Road,Diesel,100,100,100,100,100
+MLL,Road,Battery electric,0.2,2,10,25,50
+MLL,Road,Hydrogen,0,0,0,1,2
+MLL,Road,Biodiesel,5,6,7,8.5,10
+MLL,Road,Biogas,0,1,2,3.5,5
+MLL,Sea,HFO,100,100,100,100,100
+MLL,Sea,MGO,100,100,100,100,100
+MLL,Sea,LNG,10,20,30,30,50
+MLL,Sea,Hydrogen,0,0,0,0,0
+MLL,Sea,Ammonia,0,0,3,6,10
+MLL,Sea,Biodiesel (HVO),0,0,2,3.5,5
+MLL,Sea,Biogas,0,0,2,3.5,5
+MLL,Rail,Diesel,100,100,100,100,100
+MLL,Rail,Electric train (CL),100,100,100,100,100
+MLL,Rail,Battery train,0,0,10,15,20
+MLL,Rail,Hydrogen,0,0,0,0,0
+MLL,Rail,Biodiesel,0,0,0,0,0
+LHH,Road,Diesel,100,100,100,100,100
+LHH,Road,Battery electric,0.2,2,5,12,20
+LHH,Road,Hydrogen,0,0,10,25,50
+LHH,Road,Biodiesel,5,6,10,20,30
+LHH,Road,Biogas,0,1,5,10,20
+LHH,Sea,HFO,100,100,100,100,100
+LHH,Sea,MGO,100,100,100,100,100
+LHH,Sea,LNG,10,20,30,30,50
+LHH,Sea,Hydrogen,0,0,5,12,30
+LHH,Sea,Ammonia,0,0,7,30,50
+LHH,Sea,Biodiesel (HVO),0,0,5,10,20
+LHH,Sea,Biogas,0,0,5,10,20
+LHH,Rail,Diesel,100,100,100,100,100
+LHH,Rail,Electric train (CL),100,100,100,100,100
+LHH,Rail,Battery train,0,0,2,5,10
+LHH,Rail,Hydrogen,0,0,2,6,10
+LHH,Rail,Biodiesel,0,0,5,10,20
+LHM,Road,Diesel,100,100,100,100,100
+LHM,Road,Battery electric,0.2,2,5,12,20
+LHM,Road,Hydrogen,0,0,10,25,50
+LHM,Road,Biodiesel,5,6,10,15,20
+LHM,Road,Biogas,0,1,4,7,10
+LHM,Sea,HFO,100,100,100,100,100
+LHM,Sea,MGO,100,100,100,100,100
+LHM,Sea,LNG,10,20,30,30,50
+LHM,Sea,Hydrogen,0,0,5,12,30
+LHM,Sea,Ammonia,0,0,7,30,50
+LHM,Sea,Biodiesel (HVO),0,0,2,6,10
+LHM,Sea,Biogas,0,0,2,6,10
+LHM,Rail,Diesel,100,100,100,100,100
+LHM,Rail,Electric train (CL),100,100,100,100,100
+LHM,Rail,Battery train,0,0,2,5,10
+LHM,Rail,Hydrogen,0,0,2,6,10
+LHM,Rail,Biodiesel,0,0,2,6,10
+LHL,Road,Diesel,100,100,100,100,100
+LHL,Road,Battery electric,0.2,2,5,12,20
+LHL,Road,Hydrogen,0,0,10,25,50
+LHL,Road,Biodiesel,5,6,7,8.5,10
+LHL,Road,Biogas,0,1,2,3.5,5
+LHL,Sea,HFO,100,100,100,100,100
+LHL,Sea,MGO,100,100,100,100,100
+LHL,Sea,LNG,10,20,30,30,50
+LHL,Sea,Hydrogen,0,0,5,12,30
+LHL,Sea,Ammonia,0,0,7,30,50
+LHL,Sea,Biodiesel (HVO),0,0,2,3.5,5
+LHL,Sea,Biogas,0,0,2,3.5,5
+LHL,Rail,Diesel,100,100,100,100,100
+LHL,Rail,Electric train (CL),100,100,100,100,100
+LHL,Rail,Battery train,0,0,2,5,10
+LHL,Rail,Hydrogen,0,0,2,6,10
+LHL,Rail,Biodiesel,0,0,0,0,0
+LMH,Road,Diesel,100,100,100,100,100
+LMH,Road,Battery electric,0.2,2,5,12,20
+LMH,Road,Hydrogen,0,0,5,15,25
+LMH,Road,Biodiesel,5,6,10,20,30
+LMH,Road,Biogas,0,1,5,10,20
+LMH,Sea,HFO,100,100,100,100,100
+LMH,Sea,MGO,100,100,100,100,100
+LMH,Sea,LNG,10,20,30,30,50
+LMH,Sea,Hydrogen,0,0,2,6,10
+LMH,Sea,Ammonia,0,0,3,12,25
+LMH,Sea,Biodiesel (HVO),0,0,5,10,20
+LMH,Sea,Biogas,0,0,5,10,20
+LMH,Rail,Diesel,100,100,100,100,100
+LMH,Rail,Electric train (CL),100,100,100,100,100
+LMH,Rail,Battery train,0,0,2,5,10
+LMH,Rail,Hydrogen,0,0,1,3,5
+LMH,Rail,Biodiesel,0,0,5,10,20
+LMM,Road,Diesel,100,100,100,100,100
+LMM,Road,Battery electric,0.2,2,5,12,20
+LMM,Road,Hydrogen,0,0,5,15,25
+LMM,Road,Biodiesel,5,6,10,15,20
+LMM,Road,Biogas,0,1,4,7,10
+LMM,Sea,HFO,100,100,100,100,100
+LMM,Sea,MGO,100,100,100,100,100
+LMM,Sea,LNG,10,20,30,30,50
+LMM,Sea,Hydrogen,0,0,2,6,10
+LMM,Sea,Ammonia,0,0,3,12,25
+LMM,Sea,Biodiesel (HVO),0,0,2,6,10
+LMM,Sea,Biogas,0,0,2,6,10
+LMM,Rail,Diesel,100,100,100,100,100
+LMM,Rail,Electric train (CL),100,100,100,100,100
+LMM,Rail,Battery train,0,0,2,5,10
+LMM,Rail,Hydrogen,0,0,1,3,5
+LMM,Rail,Biodiesel,0,0,2,6,10
+LML,Road,Diesel,100,100,100,100,100
+LML,Road,Battery electric,0.2,2,5,12,20
+LML,Road,Hydrogen,0,0,5,15,25
+LML,Road,Biodiesel,5,6,7,8.5,10
+LML,Road,Biogas,0,1,2,3.5,5
+LML,Sea,HFO,100,100,100,100,100
+LML,Sea,MGO,100,100,100,100,100
+LML,Sea,LNG,10,20,30,30,50
+LML,Sea,Hydrogen,0,0,2,6,10
+LML,Sea,Ammonia,0,0,3,12,25
+LML,Sea,Biodiesel (HVO),0,0,2,3.5,5
+LML,Sea,Biogas,0,0,2,3.5,5
+LML,Rail,Diesel,100,100,100,100,100
+LML,Rail,Electric train (CL),100,100,100,100,100
+LML,Rail,Battery train,0,0,2,5,10
+LML,Rail,Hydrogen,0,0,1,3,5
+LML,Rail,Biodiesel,0,0,0,0,0
+LLH,Road,Diesel,100,100,100,100,100
+LLH,Road,Battery electric,0.2,2,5,12,20
+LLH,Road,Hydrogen,0,0,0,1,2
+LLH,Road,Biodiesel,5,6,10,20,30
+LLH,Road,Biogas,0,1,5,10,20
+LLH,Sea,HFO,100,100,100,100,100
+LLH,Sea,MGO,100,100,100,100,100
+LLH,Sea,LNG,10,20,30,30,50
+LLH,Sea,Hydrogen,0,0,0,0,0
+LLH,Sea,Ammonia,0,0,3,6,10
+LLH,Sea,Biodiesel (HVO),0,0,5,10,20
+LLH,Sea,Biogas,0,0,5,10,20
+LLH,Rail,Diesel,100,100,100,100,100
+LLH,Rail,Electric train (CL),100,100,100,100,100
+LLH,Rail,Battery train,0,0,2,5,10
+LLH,Rail,Hydrogen,0,0,0,0,0
+LLH,Rail,Biodiesel,0,0,5,10,20
+LLM,Road,Diesel,100,100,100,100,100
+LLM,Road,Battery electric,0.2,2,5,12,20
+LLM,Road,Hydrogen,0,0,0,1,2
+LLM,Road,Biodiesel,5,6,10,15,20
+LLM,Road,Biogas,0,1,4,7,10
+LLM,Sea,HFO,100,100,100,100,100
+LLM,Sea,MGO,100,100,100,100,100
+LLM,Sea,LNG,10,20,30,30,50
+LLM,Sea,Hydrogen,0,0,0,0,0
+LLM,Sea,Ammonia,0,0,3,6,10
+LLM,Sea,Biodiesel (HVO),0,0,2,6,10
+LLM,Sea,Biogas,0,0,2,6,10
+LLM,Rail,Diesel,100,100,100,100,100
+LLM,Rail,Electric train (CL),100,100,100,100,100
+LLM,Rail,Battery train,0,0,2,5,10
+LLM,Rail,Hydrogen,0,0,0,0,0
+LLM,Rail,Biodiesel,0,0,2,6,10
+LLL,Road,Diesel,100,100,100,100,100
+LLL,Road,Battery electric,0.2,2,5,12,20
+LLL,Road,Hydrogen,0,0,0,1,2
+LLL,Road,Biodiesel,5,6,7,8.5,10
+LLL,Road,Biogas,0,1,2,3.5,5
+LLL,Sea,HFO,100,100,100,100,100
+LLL,Sea,MGO,100,100,100,100,100
+LLL,Sea,LNG,10,20,30,30,50
+LLL,Sea,Hydrogen,0,0,0,0,0
+LLL,Sea,Ammonia,0,0,3,6,10
+LLL,Sea,Biodiesel (HVO),0,0,2,3.5,5
+LLL,Sea,Biogas,0,0,2,3.5,5
+LLL,Rail,Diesel,100,100,100,100,100
+LLL,Rail,Electric train (CL),100,100,100,100,100
+LLL,Rail,Battery train,0,0,2,5,10
+LLL,Rail,Hydrogen,0,0,0,0,0
+LLL,Rail,Biodiesel,0,0,0,0,0
+
+
+**Processexited-ReturnCode:0**
+PressEntertoexitterminal
